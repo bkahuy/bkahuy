@@ -1,3 +1,4 @@
+![](svg/welcome.svg)
 <!-- bkahuy -->
 <a href="#" target="_blank">
   <img src="svg/bkahuy.svg" width="1200" alt="bkahuy-official" />
