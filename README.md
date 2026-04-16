@@ -62,10 +62,10 @@
   <a href="https://www.tiktok.com/@bk.huy204" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="bkahuy-instagram" />
   </a>
-  <a href="https://www.youtube.com/@buikhachuy8479" target="blank">
+  <a href="https://www.youtube.com/@buikhachuy2710" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="bkahuy-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/bui-huy-171865187/" target="blank">
+  <a href="https://www.linkedin.com/in/bui-khac-huy-171865187/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="bkahuy-linkedin" />
   </a>
   <a href="https://www.instagram.com/bk.huy204/" target="blank">
