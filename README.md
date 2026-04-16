@@ -23,13 +23,19 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Java" title="Java" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c-sharp&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c-sharp&logoColor=007ACC" alt="C#" title="C#" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=007ACC" alt="C++" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQL Server-282C34?logo=&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SQL Server-282C34?logo=&logoColor=007ACC" alt="SQL Server" title="SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=007ACC" alt="Laravel" title="Laravel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=007ACC" alt="PHP" title="PHP" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=007ACC" alt="Android" title="Android" height="25" /></span>
 &nbsp;
 
 <br>
